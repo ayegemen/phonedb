@@ -1,0 +1,1 @@
+web: gunicorn phone_project.wsgi --log-file -
